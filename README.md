@@ -2,7 +2,7 @@
 
 This app improve the birthday input in LabelInputBirthDate.vue
 
-[Demo]()
+[Demo](https://kennithleung-cbs.github.io/improve-birthday-input/)
 
 ## Project setup
 ```
